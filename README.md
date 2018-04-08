@@ -1,1 +1,1 @@
-# xxy-git-learning
+# A static web page
